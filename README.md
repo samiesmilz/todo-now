@@ -1,6 +1,6 @@
 # TodoNow App
 
-![TodoNow App Preview](todonow-preview.png)
+![TodoNow Preview](todonow-preview.png)
 
 ## Overview
 
