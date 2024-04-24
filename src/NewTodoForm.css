@@ -1,0 +1,16 @@
+.NewTodoForm {
+  background-color: black;
+  padding: 10px;
+  color: aquamarine;
+}
+
+.NewTodoForm-input {
+  padding: 5px 10px;
+  font-size: medium;
+  margin: 0px 5px;
+}
+
+.NewTodoForm-button {
+  padding: 5px 10px;
+  font-size: medium;
+}

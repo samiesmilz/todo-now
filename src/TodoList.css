@@ -1,0 +1,9 @@
+.TodoList {
+  background-color: antiquewhite;
+  color: black;
+  padding: 10px;
+}
+.TodoList-items {
+  font-size: small;
+  padding-left: 15px;
+}
